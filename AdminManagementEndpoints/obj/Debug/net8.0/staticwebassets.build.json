@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JVfMuGOE04JplXNhBIJWS/Ii1qZc52GkBMYO1C4mINg=",
+  "Source": "AdminManagementEndpoints",
+  "BasePath": "_content/AdminManagementEndpoints",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

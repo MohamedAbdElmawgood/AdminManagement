@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "AdminManagementEndpoints.Controllers.AdminController",
+    "Method": "ToggleMaintenance",
+    "RelativePath": "api/admin/maintenance/toggle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdminManagementEndpoints.Controllers.AdminController",
+    "Method": "GetSettings",
+    "RelativePath": "api/admin/settings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdminManagementEndpoints.Controllers.AdminController",
+    "Method": "UpdateSettings",
+    "RelativePath": "api/admin/settings",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "settings",
+        "Type": "SettingsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
